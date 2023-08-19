@@ -1,7 +1,3 @@
-:::info
-敬請直接點選於此頁面左上方圖示「✏️」進行編修，呈現黑底畫面即可直接編寫，內容無須存檔，系統會自動保存。
-:::
-
 [TOC]
 
 # 序章：數位觀照
@@ -36,7 +32,7 @@
 > 看見「用戶體驗」，我們將**體驗人際**。<br>
 > 聽說「奇點即將接近」—— **多元宇宙**，已經來臨。<br>
 
-# 第二章 資訊技術與民主：日益擴大的鴻溝
+# 資訊技術與民主：日益擴大的鴻溝
 
 > 「西方的科技冠軍，美國，已經轉向自我鞭撻——兩大政黨與其民選代表正忙於用一切可能的手段破壞美國的科技產業。」 ——馬克·安德里森，2021 年接受諾亞·史密斯訪問時內容。
 
@@ -118,7 +114,7 @@
 
 關於傳統公共服務的數位化，或許是人們覺得民主政府最理所當然可以善用技術之處。在這些新興領域，技術已經重新定義了哪些服務才能滿足現今的使用習慣，但民主國家卻完全無法跟上時代的步伐。——過去，政府提供的郵政服務和公共圖書館是民主交流和知識傳播的重要支柱，而現在，大部分的溝通與資訊傳播都是透社群媒體和網路搜尋進行的。曾經大多數的公共聚會都是在公園和“真的”公共廣場上進行，現在「公共廣場已經轉向線上」早已是老生常談了。
 
-民主國家幾乎無視於支持數位公共服務的重要性。私有化的 Twitter 雖然早被公眾人物不斷濫用，但它最明顯的競爭對手-非營利的 Mastodon 和它所基於的開放標準 Activity Pub，卻僅僅獲得了幾萬美元的公眾支持，它的營運資金主要仰賴於 Patreon 平台上的捐款。更概括的說，開源軟體和維基百科這些具有公地性的公共產品，已然成為數位浪潮時代下至關重要的公共資源；然而卻未見各國政府支持它們，實際上它們受到的支持甚至也無法與其他慈善組織相提並論。（比如，提供開源軟體的事業，通常不能成為享有免稅的慈善機構）。與此同時，專制政體正在積極推進中央銀行數位貨幣計劃，而大多數民主政府卻才剛剛開始...。**"積極大膽的想法是，民主國家可以像那些專制國家一樣，推動以技術重塑社會結構的激進實驗。""** 但在這方面，民主制度似乎更常成為阻礙，而不是促進這些實驗的發生。”
+民主國家幾乎無視於支持數位公共服務的重要性。私有化的 Twitter 雖然早被公眾人物不斷濫用，但它最明顯的競爭對手——非營利的 Mastodon 和它所基於的開放標準 Activity Pub，卻僅僅獲得了幾萬美元的公眾支持，它的營運資金主要仰賴於 Patreon 平台上的捐款。更概括的說，開源軟體和維基百科這些具有公地性的公共產品，已然成為數位浪潮時代下至關重要的公共資源；然而卻未見各國政府支持它們，實際上它們受到的支持甚至也無法與其他慈善組織相提並論。（比如，提供開源軟體的事業，通常不能成為享有免稅的慈善機構）。與此同時，專制政體正在積極推進中央銀行數位貨幣計劃，而大多數民主政府卻才剛剛開始...。**"積極大膽的想法是，民主國家可以像那些專制國家一樣，推動以技術重塑社會結構的激進實驗。""** 但在這方面，民主制度似乎更常成為阻礙，而不是促進這些實驗的發生。”
 
 中国已經建設了城市，例如深圳，提供環境來促進無人車發展，更進一步廣泛制定了國家科技策略在政策、法規和投資方面全面取得進展 [^21]。沙烏地阿拉伯正忙於在沙漠中建立一個新的智慧城市 Neom，展示一系列綠色和智慧城市科技；反觀在民主國家，即使是溫和的地區專案，如 Google"Sidewalk Labs"，卻也被當地的反對者淹沒了。
 
@@ -166,7 +162,6 @@
 
 如此一來，亦大幅降低了對通信韌性和社會系統技術有關的重視，轉頭更直接的支持與軍事目標有關的系統等發展，包括自主武器和加密技術。1979 年，資助了 ARPANET 和世界上第一個電腦科學的創始 ARPA 項目官員 JCR Licklider 對於公共資金不再支持這些對網路社會的關鍵基礎設施直接表示了懊悔 [^27]。此一趨勢在 1980 年代更為明顯，圍繞著軍用國家防禦的關注愈趨狹窄。
 
-
 ### 二十一世紀的意識形態
 
 如果技術的發展路徑不是預先決定的，相反，它可以透過市場投資所呈現的集體選擇來形塑，那麼我們又該如何思考一個社會在發展方向上的靈活性呢? 選擇的範圍可以多大，這些選擇又會如何表現？
@@ -185,22 +180,19 @@
 
 AT  專注於 AI 創造出的未來潛力，正也是 OpenAI 創辦人 Sam Altman 所說的「適用於一切的摩爾定律」。AI 使所有物質商品變得便宜且充足，看起來在原則上解決了物質稀缺的問題。不過，這樣的潛在豐盛可能不會平均分配，它創造的價值將可能只集權於一小群控制和領導 AI 系統的團體手中，也因此 AT 社會願景的一個關鍵元素是：資源再分配，一般來說是通過 "無條件基本收入"（UBI）進行。另一個關注重點則是在於 AI 可能會失去控制並且危及人類的生存，因此，需要對這些技術的存取，採強制且通常是集中式的管理，以確保它們能夠 "忠實地執行人類的意志" 。雖然此一觀點的確切輪廓在其支持者間各有表述，但 "通用人工智慧"（AGI）的概念是核心：機器在某種通用性能上超越了人類，也讓人類個人或集體認知功能，變得幾乎毫無價值。
 
-
 其主要倡導者是在矽谷的 Sam Altman，他的導師 Reid Hoffman 與 Elon Musk。這樣的觀點卻在中国十分受到歡迎，馬雲、經濟學者余永定以及中国大陆政府新一代人工智慧發展計劃（基於馬克思主義的“中央計劃”思想）都在推動 AT。它還出現在科幻小說中，如以撒·艾西莫 (Isaac Asimov) 和伊恩·班克斯 (Iain Banks ) 等作者的作品中以及雷蒙·庫茲維爾 (Ray Kurzweil) 和尼克·博斯特羅姆 (Nicholas Bostrom) 等未來主義學家的著作。與此觀點一致的組織包括了 OpenAI、DeepMind ，也涉及至一些先進的人工智慧項目。在美國，Andrew Yang 的政治運動也促進如此看法進入主流政治中，AT 觀點在某種程度上也以較為淡化的形式出現在 "科技左派" 的許多思想中，包括 Ezra Klein、Matthew Yglesias 和 Noah Smith 等評論者。
 
 ### 加密貨幣與超資本主義
 
-
 第二個，其實在主流媒體中並不那麼常見，但在比特幣和其他加密貨幣社群，或相關性網路社群中一直是一個重要且主導性的題目。其可見於《文明帝國 VI》的「法人自由意志主義」類別，ES 的支持者往往更偏好使用 **「創業主權」(Entrepreneurial Sovereignty, ES)** 這個標籤，因此我們採用這個名稱。
 
-ES 關注加密技術和網路協議，取代人類團體組織和政治發展角色的潛力（或者，必然性）。使個人能夠參與在沒有政府和其他組織團體「強制」的環境和規範的自由市場。
+ES 關注加密技術和網路協定，取代人類團體組織和政治發展角色的潛力（或者，必然性）。使個人能夠參與在沒有政府和其他組織團體「強制」的環境和規範的自由市場。
 
 小說一直是 ES 思想的重要繆思，包括艾茵·蘭德 (Ayn Rand) 和尼爾·史蒂文森 (Neal Stephenson) 的作品。史蒂文森的書籍，特別是《潰雪》（1992 年）和《Cryptonomicon》（1999 年），即使它們鮮明顯要的提出反烏托邦的警示，但早已被 ES 的支持者引用爲藍圖更加以採用。這些作品和隨後成為 ES 社群核心的示範技術包括史蒂文森（Stephenson）稱之為「元宇宙」(Metaverse）的身臨其境虛擬世界、獨立於政府體系外的數位貨幣且不受監管，比如：漂浮城市（floating cities）、海洋據點（sea steads）等概念的私人主權、可迴避集體控制/法律的強大加密技術等。比特幣、web3、4chan 和其他 "邊緣" 但有影響力的線上社群一直是 ES 觀點的社會基礎核心。
 
-⼩說⼀直是 ES 思想的重要繆思，包括艾茵·蘭德 (Ayn Rand) 和尼爾·史蒂⽂森 (Neal Stephenson) 的作品。史蒂⽂森的書籍，特別是《潰雪》（1992年）和《Cryptonomicon》（1999 年），即使它們鮮明顯要的提出反烏托邦的警⽰，但早已被 ES 的⽀持者援引爲藍圖予以採用。這些作品和隨後成為 ES 社群核⼼的⽰範技術包括史蒂⽂森（Stephenson）稱之為「元宇宙」的⾝臨其境虛擬世界、獨立於政府體系外的數位貨幣且不受監管，比如：漂浮城市（ﬂoating cities）、海洋據點（sea steads）等概念的私⼈主權、可迴避集體控制/法律的強⼤加密技術等。比特幣、web3、 4chan 和其他 "邊緣" 但有影響⼒的線上社群⼀直是 ES 觀點的社會基礎核⼼。
+⼩說⼀直是 ES 思想的重要繆思，包括艾茵·蘭德 (Ayn Rand) 和尼爾·史蒂⽂森 (Neal Stephenson) 的作品。史蒂⽂森的書籍，特別是《潰雪》（1992 年）和《Cryptonomicon》（1999 年），即使它們鮮明顯要的提出反烏托邦的警⽰，但早已被 ES 的⽀持者援引爲藍圖予以採用。這些作品和隨後成為 ES 社群核⼼的⽰範技術包括史蒂⽂森（Stephenson）稱之為「元宇宙」的⾝臨其境虛擬世界、獨立於政府體系外的數位貨幣且不受監管，比如：漂浮城市（ﬂoating cities）、海洋據點（sea steads）等概念的私⼈主權、可迴避集體控制/法律的強⼤加密技術等。比特幣、web3、 4chan 和其他 "邊緣" 但有影響⼒的線上社群⼀直是 ES 觀點的社會基礎核⼼。
 
 或許正因為 ES 比 AT 更不主流，它有著更清晰的知識系統和領導者。《The Sovereign Individual (主權個人)》的作者詹姆斯·戴爾·戴維森 (James Dale Davidson) 和威廉·里斯-莫格 (William Rees-Mogg) 筆名 Mencius Moldbug 的 Curtis Yarvin 的著作，以及 Balaji Srinavasan 的《The Network State (網路國家)》在社群中被廣泛傳閱和引用。風險投資家 Peter Thiel 被普遍認為是 ES 核心思想領袖，還有他資助或推廣的其他作者（如前所述）。
-
 
 ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜的關係。一方面，許多 ES 的參與者與這些群體有著緊密的連結，且在一定程度上支持它，這一點可以從 Thiel 成為唐納德·特朗普及其支持者的主要財政支持者來說明; 事實上，一些領導極右翼政治家與 ES 世界觀有著密切聯繫：例如著名的英國保守黨下議院議員雅各布·里斯·莫格是威廉·里斯·莫格勳爵的兒子，Peter Thiel 曾經僱用前奧地利總理塞巴斯蒂安·庫爾茨，而 Thiel 的門徒布雷克·馬斯特斯和 J·D·范斯分別在 2022 年競選參議員，後者成功當選。
 
@@ -258,9 +250,7 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 另一條道路或是可行的。技術和民主可以做爲彼此最宏大的盟友。事實上，正如我們將要論證的那樣開始，大範圍的民主（或者，如《文明帝國 VI》所稱的「數位民主」）是一個我們正在開始描繪輪廓的夢想，一個需要前所未有的技術才可能造出的願景。通過重新構想我們的未來，轉變公共投資、研究方向和私部門發展，我們可以構築我們所期盼的未來世界。在本書接下來的章節，我們希望向您展示具體方法。
 
-
-
-# 第三章 活在多元世界
+# 活在多元世界
 
 > 直到不久前，我對文明最大的稱讚……是認為它使得藝術家、詩人、哲學家和科學家做為可能而存的。但我現在認為這並非最偉大的事情。現在我相信，最偉大的發生是歸屬於我們整體，直接影響了我們所有人。
     當有人說我們過於被謀生所困而遺忘生活時，我回答，文明的最高價值就是它使生活方式變得複雜了；它要求偉闊協作的智力付出，而不僅僅是簡化的、未經協調的存在。是利益於群體可以吃穿用度、安居樂業，從一個地方移動到另一個地方。
@@ -270,7 +260,6 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 [^36]
 
 ---
-
 
 技術跟隨科學。因此，如果我們要提供一種不同於「富饒專家統治」（Abundance Technocracy, AT）和「創業主權」(Entrepreneurial Sovereignty, ES) 的技術未來願景，我們需要理解其對科學的理解的根源爲何，有什麼可能被遺漏了，以及如何糾正這一點來開闢新的視野。
 
@@ -298,13 +287,10 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 交互共生、生態學和拓展的演化綜論已削弱了“適者生存”這一個中心生物學範式。神經科學在圍繞著網絡和新興能力下已經被重新構想，又反過來，再次成為現代計算的核心概念。在整體發展中至關重要的軸心思維是：**「複雜性」、「湧現」、「網絡」、「集體智慧」**，它們挑戰了優雅的一元論原子主義。
 
-
-
 ### 複雜性和湧現
 
  
 複雜性科學的軸心思想，是將許多自然現象還原爲構成它們的原子組件（稱爲「還原主義」）。即使在概念上或許可行，卻時常適得其反。同時，如果試圖將複雜系統作為單一整體來進行研究，往往是無效或不可行的。
-
 
 與上述相反的是，這些結構（例如：分子、有機體、生態系統、天氣系統、社會）是從各式（相互交織）層次的「原子」當中湧現的。這些層次至少有部份可以根據它們自身的規律和原則來理解，而不是從支配其底層組件的規則得出。在所有適用的領域中，關於「複雜性」或我們稱為「多元主義」的共同核心論點包括：
 
@@ -318,16 +304,11 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 * **內嵌的因果關係：** 基於前述論點，因果關係很難用還原論的方法，做出完善且詳盡的解釋。也就是說，對於高層次現象的解釋，很難被化約爲更簡單、更原子化的組件。相反的，即使特定因果箭頭可能遵循某種方向，但同一個系統中的其他因果箭頭，將採取相反的形式：其中「原子」的行爲，是由它們在更大系統中的位置來解釋的。正因如此，因果分析將會出現近似於「循環」的元素而形成平衡。獨立的因果關係，通常會從平衡中的驅力中湧現，而非通過可預測的方式還原爲一系列恆定的原子「不變動力」。
 
-
 以上這些要素，共同構築了對於科學項目基本性的重新認知。在「一元原子論」中，對科學真理和起源的探索，類似於從行星表面的不同起點向其核心挖掘的過程：人們可以從許多不同的起點開始，但當他們開始剝離虛假、迷信、錯誤和誤解，他們都會發現潛存一致的真理核心，將其所視的一切還原爲相同的基本元素。
-
 
 在多元的視角下，則適用幾乎完全相反的譬喻：科學的追求，類似於從行星表面向外的結構建造。即便一開始這些結構可能是擁擠或競爭的，但只要向外擴展的足夠遠，需要填上的空間，就會擴展到無垠虛空之外。而隨著這些結構的分枝，生態則趨向更爲多元與和碎片化，互動和重組的可能性將比原先預期的更爲豐盛，然而，它們匯聚爲單一結果的可能性也就越來越低了。此外，這些不斷重新組成中的每一項都類似於有性繁殖，可形成新的結構，這些結構本身會沿著自己的軌跡進一步延伸。如此的進步體現了複雜性、多樣性和多元交織的重組。
 
-
 儘管如此的多元視角，並不像一元原子論那般提出了最終、絕對真理的希望訴求，但它也同樣展現了希望：潛在進步的無限遠景，隨著它的發展放寬而不是收縮/收限。正如二十世紀的科學革命所生動揭示的那般，轉移往如此般的多元視角，並不意味著科學進步的終結，而是可能性的爆發。
-
-
 
 ### 科學革命開啟多元宇宙
 
@@ -359,12 +340,9 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 每個交互層次的結構，與各種認知視角的描述，都對進步至關重要：核彈重塑了人類社會，引發了環境變遷而重塑氣候，扭曲了人類心理，進而導入運算系統的設計中，並幫助醫治疾病等等。
 
-
 **物理學**
 
-
 多元主義或許正是生物系統中是最自然的存在了。我們的日常生活裡就已不斷遇見多元的複雜性。而更令人驚訝的是，二十世紀的物理學正也揭示了這些原理 "一路向下" 延伸至底部，直達牛頓一元原子論開創的物理科學核心。
-
 
 在十九世紀末時，克耳文勳爵（Lord Kelvin）大發厥詞地宣稱：「現在物理學沒有新的東西可以發現了。」，於此相反，二十世紀被證明是物理學歷史上最豐富、也最具革命性的時代。相對論（狹義、特別是廣義相對論）、量子力學，以及在較小範疇上的熱力學 / 資訊理論、弦理論，都顛覆了牛頓宇宙觀，在在顯示了「撞球檯模型」的簡單線性時間、歐幾里得空間的客觀現實，最多只是在熟悉的條件下有效近似 。在這些革命中出現的（後）現代物理學很好地說明了科學中的多元性，說明了多元主義是如何像著名物理學家卡洛羅韋利的題詞所暗示的那般，織入在現實的結構中。
 
@@ -382,7 +360,7 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 **生物學**
 
-如果說十九世紀微生物學（關於高級生物與其互動）的定義思想是「自然選擇」，那麼二十世紀相比擬的定義思想則是「生態系統」。自然選擇強調面對稀缺資源時的“達爾文式”的競爭觀點（其與“擴展的演化綜論”思想密切相關）強調：
+如果說十九世紀宏觀生物學（關於高級生物與其互動）的定義思想是「自然選擇」，那麼二十世紀相比擬的定義思想則是「生態系統」。 自然選擇強調面對稀缺資源時的“達爾文式”的競爭觀點（其與“擴展的演化綜論”思想密切相關）強調：
 
 * 基於還原論的概念，例如行爲主義、神經科學等等，始終無法建構有效的動物行為模型，這展示了計算的複雜性。此外，由多種相異生物組成的系統（即「生態系統」）也顯現出與多細胞生物體相似的特徵（如恆定性、對內部成份的破壞或過度繁殖的脆弱性等），這些揭示了敏感性和混沌性。
 
@@ -392,11 +370,9 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 * 認知到遺傳學僅只編碼這些行為中的某一部分，而「表觀遺傳學（epigenetics）」或其他環境特徵在演化和適應中發揮著重要作用，闡釋了內嵌的因果關係。
 
-
 這樣的轉變，不僅僅是簡單的科學理論，亦導致了二十世紀人類行爲與自然互動的一些最重要的關係轉變。尤其在環境運動與其創建的一系列如保護生態系統、生態多樣性、臭氧層與氣候行動，都源於「生態學」且十分依賴這門科學，甚至常常被稱為「生態」運動。
 
 這一點用宏觀生物學來做說明最簡單，因為它對公眾來說更加熟悉，但同樣的概念或許更適用於微生物學（研究複雜性生物體的內部生命運作），也更爲鮮明。這個領域的研究已經從聚焦個體器官和基因表現的機械研究，走向 "系統化" 發展，根據一系列不同的層次整合相異的自然法則。而最可以明確闡釋這一點的，或許正是最複雜、最神秘的生物系統 ——人類大腦。
-
 
 **神經科學**
 
@@ -416,13 +392,11 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 * 神經科學也優雅的闡示了內嵌的因果關係。眾所周知，大腦結構對於學習具有顯著的可塑性，學習內容亦高度取決於人們居住和建設的社會環境，人類經濟和社會系統都可以替大腦提供養份。正因為如此，人們或許希望可藉由人類神經心理學的種種特徵來解釋更高層次的現象（社會、關係、經濟、教育系統）, 而這些現象正是塑造大腦自性、作用的部分核心成因。因此，因果關係可追溯至一個典型的，跨層次的經典循環模式。
 
-
 現代神經科學已經將這些認知轉化爲一系列的應用：醫治大腦損害的患者、發展精神醫學、某些基於經顱刺激和其他腦部活化方法的一些治療和干預措施，甚至更多。不過，這些最具變革性、受神經科學啟發的技術部份至少是數位技術，而不僅只是純粹的生物醫學。神經科學也越來越常被用於數位技術發展中兩個更爲奇特且令人興奮的領域核心：腦機介面，以及使用腦類器官作為計算基質。
 
 最普遍的則是受到早期大腦數學模型啟發的“類神經網路”架構，其成為了最近 "人工智慧" 前行的基底。數萬億個節點組成的網路，每一個節點都依循著相當簡單的原則運轉，這些原則受到活化神經元的靈感而設計；當輸入的線性組合超過一定的閾值時就會觸發活化，是 BERT 和 GPT 模型等“基礎模型”的骨幹。
 
 在過去的五年裡，這些發展早已席捲全球，更在過去兩年中越來越多地佔據了新聞頭條。上述演示的神經科學的所有關鍵特徵，與更廣泛的多元主義（舉例：多層次組織、關聯性、內嵌的因果關係），都體現在這些系統的運行中。
-
 
 ### 從科學到社會
 
@@ -452,10 +426,9 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 在 ES 願景中，原子個體（或在某些版本中，同質且緊密對齊的個體群體）的主權，則是主要的渴望。社會關係最好用「顧客模式」、「出場機制」等資本主義動力的角度來理解。民主制度和其他應對多樣性的方法，都被視爲未能實現足夠價值對齊與自由的系統失靈模式。
 
-
 但我們並非只有這兩條路可選。多元主義的科學，已經向我們展示了如何運用對世界的多元理解，來建構物理技術的力量。我們必須要問：運用這樣的理解，建構出的人類社會與資訊技術，將會是什麼樣子？幸運的是，二十世紀見證了上述願景的系統發展，從哲學和社會科學的基礎，到技術表現的開端。雖然這樣的「道（dao）」如今已被遺忘，但我們將在下一章中，重新發現它。
 
-## 我們遺忘的道
+# 我們遺忘的道
 
 > 工業和科技發明，創造了相關行為模式手段的變化，從根本上改動了其間接後果的數量、特性和地點。然而這些變化是政治形式的外在表現，政治形式一旦確立，就會依循自身的動力而持續下去。因這些變化而產生的新興公眾，長期以來一直是初創狀態、未組織化的，因為它並無法套用在既成的政治機構。後者如果是精心設計的和制度化良好，則會阻礙新興公眾的組織。這些阻礙了國家新形式的發展，但如果社會生活更具有流動性，更少地積累在既定的政治和法律模式中，這種發展形式可能會迅速發生。公眾必須打破現有的政治形勢來發展自身。這很難做到，因為這些形式本身就是實施變革的常規手段。產生政治形式的公眾正在消失，但權力和佔有的渴望仍掌握在即將消失的公眾所建立的官員和機構制度手中。這就是為什麼國家形式的改變往往只能通過革命來實現。-- John Dewey，《The Public and Its Problems（公眾及其問題）》，1927 年 
 
@@ -493,7 +466,7 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 這樣看這些結構，它們與大部分的人類歷史和多數地方的結構大相徑庭。然而，在人類歷史上與大部分地區，人們出生在一個大家庭中，基本上永遠無法離開這個家庭和他所處的環境。 "WEIRD（西方、教育、工業化、富裕、民主）" 社會的創新意味著人們在人類歷史上首次可以脫離他們所處的情景，從一所大學進入另一所大學，從一個城鎮駛往另一個城鎮，或者離開一個行會並在一個新的行會中接受培訓，做爲生活的正常部分。
 
-**在自由民主國家中，最常見的身份識別與驗証機制是護照、身分證或其他具有類似用途、由政府頒發的證件（比如：駕照或社會安全卡），即使這些證件最初是使用在其他目的上 ; 還有一小部分政府頒發的重要證件（比如：出生登記和結婚登記），以及對鑰匙或智慧手機等實體物件的控制，這樣的情形越來越常出現。姓名通常遵循著一種標準結構：典型的父系姓氏與父母在孩子出生時起的名字相結合。另一個重要的證書 – 教育制度 – 則更加多樣化，因為有大量的培訓課和教育機構提供證書。然而即使是學歷認證，也幾乎都符合一種限制性的結構，意味著它是少數 "學位" 中的一種，其來自於具有特定的 "Carnegie unit " 結構的課程（據定義上說，與教師一起學習120個小時）出現的。**
+**在自由民主國家中，最常見的身份識別與驗証機制是護照、身分證或其他具有類似用途、由政府頒發的證件（比如：駕照或社會安全卡），即使這些證件最初是使用在其他目的上 ; 還有一小部分政府頒發的重要證件（比如：出生登記和結婚登記），以及對鑰匙或智慧手機等實體物件的控制，這樣的情形越來越常出現。姓名通常遵循著一種標準結構：典型的父系姓氏與父母在孩子出生時起的名字相結合。另一個重要的證書 – 教育制度 – 則更加多樣化，因為有大量的培訓課和教育機構提供證書。然而即使是學歷認證，也幾乎都符合一種限制性的結構，意味著它是少數 "學位" 中的一種，其來自於具有特定的 "Carnegie unit" 結構的課程（據定義上說，與教師一起學習120個小時）出現的。**
 
 我們有機會將這些國家機構至其他正式機構的文件化拓展到相近機構與網絡機構。目前，我們正在努力開發共同的方法，以支持在「開放認可」社群中開展這項工作的社群。
 
@@ -650,7 +623,7 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 #### 網際網路及其不滿
 
-雖然個人電腦和網際網路初期平行發展，但網際網路的發展正是為了連接這些個人電腦。在二十世紀 60 年代末和 70 年代初，各種網路並行於最大的 ARPANET 共同發展，包括了在大學、美國以外的政府、國際標準機構以及 BBN 和Xerox等公司內部。在 Kahn 和 Cerf 的領導下，在 ARPA（現改名爲 DARPA 以強調其 "國防" 重點）的支援下，這些網路開始利用 TCP/IP 協議進行相互作業。隨著這個網路規模的擴大，鑒於其先進技術任務的限制，DARPA 尋找另一個機構來維護它。雖然許多美國政府機構牽手，但國家科學基金會擁有最廣泛的科學參與者，他們的 NSFNET 迅速發展成為最大的網路，導致 ARPANET 在 1990 年退役。同時，NSFNET 開始與其他富裕國家的網路相互連接。
+雖然個人電腦和網際網路初期平行發展，但網際網路的發展正是為了連接這些個人電腦。在二十世紀 60 年代末和 70 年代初，各種網路並行於最大的 ARPANET 共同發展，包括了在大學、美國以外的政府、國際標準機構以及 BBN 和Xerox等公司內部。在 Kahn 和 Cerf 的領導下，在 ARPA（現改名爲 DARPA 以強調其 "國防" 重點）的支援下，這些網路開始利用 TCP/IP 協定進行相互作業。隨著這個網路規模的擴大，鑒於其先進技術任務的限制，DARPA 尋找另一個機構來維護它。雖然許多美國政府機構牽手，但國家科學基金會擁有最廣泛的科學參與者，他們的 NSFNET 迅速發展成為最大的網路，導致 ARPANET 在 1990 年退役。同時，NSFNET 開始與其他富裕國家的網路相互連接。
 
 其中之一是英國，研究人員提姆·柏內茲-李（Tim Berners-Lee）在 1989 年提出了「網頁瀏覽器」、「網站伺服器」和「超文本標記語言（HTML）」，將超文本與封包交換完全連接起來，使網際網路內容更容易被廣大終端使用者使用。從 1991 年柏內茲-李的全球資訊網（WWW）的推出，網際網路的使用從大約 400 萬人（主要在北美）增長到千禧年末的 4 億多人（主要在世界各地）。隨著網際網路創業公司在矽谷的蓬勃發展，許多人的生活開始通過許多人現在家裡的電腦移動至網上，網路化的個人計算（“作為通訊設備的電腦”）的時代已經到來。
 
@@ -675,7 +648,7 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 我們是如何掉進超文本和網際網路創始人所明確描述的陷阱的？在領導了網際網路的發展之後，為什麼政府和大學沒有在二十世紀 70 年代之後迎接資訊時代的挑戰？
 
-1979 年，當 ARPA（現為 DARPA）的工作重心從支援網路協議轉向更直接的武器導向研究時，正是這些警告訊號促使利克提筆寫下了這篇論文。利克認為，這是政治光譜兩端的兩股力量造成的。一方面，隨著後來被稱為 "新自由主義" 的 "小政府保守主義" 的興起，政府正在從主動資助和塑造工業與技術中撤退。另一方面，越戰使許多左翼人士反對國防機構在影響研究方面的作用，從而導致 1973 年《曼斯菲爾德修正案》的出臺，該修正案禁止 ARPA 資助任何與 "國防職能" 無直接關係的研究。這些措施共同將 DARPA 的重點轉向密碼學和人工智慧等被視為直接支援軍事目標的技術。
+1979 年，當 ARPA（現為 DARPA）的工作重心從支援網路協定轉向更直接的武器導向研究時，正是這些警告訊號促使利克提筆寫下了這篇論文。利克認為，這是政治光譜兩端的兩股力量造成的。一方面，隨著後來被稱為 "新自由主義" 的 "小政府保守主義" 的興起，政府正在從主動資助和塑造工業與技術中撤退。另一方面，越戰使許多左翼人士反對國防機構在影響研究方面的作用，從而導致 1973 年《曼斯菲爾德修正案》的出臺，該修正案禁止 ARPA 資助任何與 "國防職能" 無直接關係的研究。這些措施共同將 DARPA 的重點轉向密碼學和人工智慧等被視為直接支援軍事目標的技術。
 
 然而，即使美國政府的注意力沒有轉移，網際網路也很快脫離了其許可權和控制。隨著網際網路日益成為一個全球性網路，（正如杜威所預言的）沒有明確的公共權力機構來進行必要的投資，以應對網路社會取得更大成功所需的社會技術挑戰。引用利克的話：
 
@@ -683,10 +656,9 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 公部門和社會部門投資的作用不斷下降，使得利克和尼爾森等領導人所看到的網際網路的核心功能/層次（如身份、隱私/安全、資產共享、商業）逐漸缺失了。雖然在網際網路上執行的應用程式和 WWW 都取得了巨大進步，但在利克撰寫本文時，對協定的基本投資已接近尾聲。公部門和社會部門在定義和創新網路網路方面的作用很快就黯然失色。
 
-隨著個人電腦的成功，以及雷根和柴契爾激動人心的慶祝活動的推動，私營企業步入了這個巨大的空洞。雖然利克擔心 IBM 會主宰和阻礙網際網路的發展，但事實證明，IBM 無法跟上技術變革的步伐，它找到了許多有意願和能力的繼任者。一小群電信公司接管了國家科學基金會隨意放棄的網際網路骨幹網。美國線上和 Prodigy 等入口網站主導了大多數美國人與網路的互動，而網景公司和微軟公司則爭奪網路瀏覽的主導權。被忽視的身份識別功能由 Google 和 Facebook 的崛起填補。PayPal 和 Stripe 填補了數位支付的空白。由於缺乏最初推動星際電腦網路工作的資料、計算能力和儲存共享協議，支援這種共享的私有基礎設施（通常稱為 "雲端服務供應商"，如 Amazon 網路服務和微軟 Azure ）成為構建應用程式的平臺。
+隨著個人電腦的成功，以及雷根和柴契爾激動人心的慶祝活動的推動，私營企業步入了這個巨大的空洞。雖然利克擔心 IBM 會主宰和阻礙網際網路的發展，但事實證明，IBM 無法跟上技術變革的步伐，它找到了許多有意願和能力的繼任者。一小群電信公司接管了國家科學基金會隨意放棄的網際網路骨幹網。美國線上和 Prodigy 等入口網站主導了大多數美國人與網路的互動，而網景公司和微軟公司則爭奪網路瀏覽的主導權。被忽視的身份識別功能由 Google 和 Facebook 的崛起填補。PayPal 和 Stripe 填補了數位支付的空白。由於缺乏最初推動星際電腦網路工作的資料、計算能力和儲存共享協定，支援這種共享的私有基礎設施（通常稱為 "雲端服務供應商"，如 Amazon 網路服務和微軟 Azure ）成為構建應用程式的平臺。
  
-雖然網際網路的骨幹，在有限的範圍內不斷改進，增加了安全層和一些加密功能，但利克和尼爾森認為必不可少的基本功能卻從未整合。對網路協議的公共財政支援基本枯竭，剩下的開源開發主要由志願者工作或私營企業支援的工作組成。隨著網際網路時代的到來，創始人的夢想逐漸破滅。
-
+雖然網際網路的骨幹，在有限的範圍內不斷改進，增加了安全層和一些加密功能，但利克和尼爾森認為必不可少的基本功能卻從未整合。對網路協定的公共財政支援基本枯竭，剩下的開源開發主要由志願者工作或私營企業支援的工作組成。隨著網際網路時代的到來，創始人的夢想逐漸破滅。
 
 ### 往事重現
 
@@ -701,63 +673,59 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 
 儘管維基百科作為此一精神的最常態的表現，但它也是網絡世界的基礎。開源軟體（open source software）是維基百科的精神源泉，顯示了參與式、網絡化、跨國自治的重要影響。最著名的開源軟體是 Linux 作業系統，它是多數公共雲基礎設施的基底，通過 GitHub 等平台與許多人們的數位生活層面產生交集，GitHub 的貢獻者超過 1 億人，為超過 70% 的智慧型手機提供動能的 Andorid 系統也是開源專案，儘管其主要是由 Google 掌控營運。
 
-開源軟體的出現是對於二十世紀 70 年代下產業商業化、封閉縮限表徵的一種反擊。ARPANET 早期的自由、開放的開發方式，在公共資金撤出後仍得以維持，這必須要歸功於全球的志願者隊伍。理查·史托曼（Richard Stallman）反對 Unix 作業系統的封閉性，領導了 "開源軟體運動"，推廣 GNU 通用公共許可證（GNU General Public License, GNU GPL），允許使用者運行、研究、共享和修改源碼。這一運動最終被重新命名為開源軟體，其目標是在林納斯·托瓦茲（Linus Torvalds）的領導下，用開源的 Linux 取代 Unix。
+開源軟體的出現是對於二十世紀 70 年代下產業商業化、封閉縮限表徵的一種反擊。ARPANET 早期的自由、開放的開發方式，在公共資金撤出後仍得以維持，這必須要歸功於全球的志願者隊伍。理查·史托曼（Richard Stallman）反對 Unix 作業系統的封閉性，領導了 "自由軟體運動"，推廣 GNU 通用公共許可證（GNU General Public License, GNU GPL），允許使用者運行、研究、共享和修改源碼。這一運動最終被重新命名為開源軟體，其目標是在林納斯·托瓦茲（Linus Torvalds）的領導下，用開源的 Linux 取代 Unix。
 
-開源軟體，已經開展到各個網際網路和電腦資訊領域，甚至贏得了微軟（現為 GitHub 的所有者）等曾經敵對公司的支持。這代表大規模的多元化實踐；共享全球資源的新興集體共創。這些社群是圍繞著共同的興趣而形成，在彼此的工作基礎上自由構建，通過無償維護者審核貢獻，並在出現不可調和的分歧時將項目 "分叉 " 爲平行版本。GitHub 和 GitLab 等平台爲數百萬開發人員的參與提供了便利。這本書就是這種協作模式下的生成體。
+開源軟體，已經開展到各個網際網路和電腦資訊領域，甚至贏得了微軟（現為 GitHub 的所有者）等曾經敵對公司的支持。這代表大規模的多元化實踐；共享全球資源的新興集體共創。這些社群是圍繞著共同的興趣而形成，在彼此的工作基礎上自由構建，通過無償維護者審核貢獻，並在出現不可調和的分歧時將項目 "分叉" 爲平行版本。GitHub 和 GitLab 等平台爲數百萬開發人員的參與提供了便利。這本書就是這種協作模式下的生成體。
 
 不過，開源軟體也面臨了一些挑戰，比如公共資金的撤離導致長期的資金支持短缺，娜蒂亞·埃格巴爾（Nadia Eghbal）在《Working in Public》一書中對此做出了探究。維護者往往得不到回報，而社群的發展又加重了他們的負擔。儘管如此，這些挑戰都是可以應對的，開源軟體儘管有著在商業模式上的侷限性，但也真實展示出了開放合作精神（即「被遺忘的道」），而這正是「多元宇宙」致力支持的。因此，開源軟體將成為本書的核心實例。
 
-我們在前面提到的杰倫·拉尼爾（Jaron Lanier）的作品，正是另一個公共投資撤出通訊網路後，可做爲明確對比的一個例子，它更多的是在追隨恩格爾巴特和尼爾森等文化設計師的腳步，而不是 Vint Cerf 和 Steve Crocker 等組織領導者的腳步。作為人工智慧先驅馬文·明斯基（Marvin Minsky）的學生和評論家，拉尼爾試圖開發一種與人工智慧具有同樣遠大抱負的技術方案，其核心是人類體驗和交流。在他看來，現有的交流機制受困於那些可以像文字和圖片一樣由耳朵、眼睛處理的符號，因此，他希望通過觸覺和本體感受（內在感官），讓人們能夠深入地分享體驗並且產生共鳴。通過他在二十世紀 80 年代的研究和創業經歷，這一個理念發展為虛擬現實領域，從 GLOVE 到蘋果公司發布的 Vision Pro，這個領域一直是用戶相互創新的泉源。
+我們在前面提到的杰倫·拉尼爾（Jaron Lanier）的作品，正是另一個公共投資撤出通訊網路後，可做爲明確對比的例子，它更多的是在追隨恩格爾巴特和尼爾森等文化設計師的腳步，而不是 Vint Cerf 和 Steve Crocker 等組織領導者的腳步。作為人工智慧先驅馬文·明斯基（Marvin Minsky）的學生和評論家，拉尼爾試圖開發一種與人工智慧具有同樣遠大抱負的技術方案，其核心是人類體驗和交流。在他看來，現有的交流機制受困於那些可以像文字和圖片一樣由耳朵、眼睛處理的符號，因此，他希望通過觸覺和本體感受（內在感官），讓人們能夠深入地分享體驗並且產生共鳴。通過他在二十世紀 80 年代的研究和創業經歷，這一個理念發展為虛擬現實領域，從 GLOVE 到蘋果公司發布的 Vision Pro，這個領域一直是用戶相互創新的泉源。
 
 然而，正如我們在上文所強調的，拉尼爾不僅傳承了將電腦作為通訊裝置的文化視角，他也支持尼爾森對後來的網際網路差距和缺陷的批評。在《You are Not a Gadget》和《Who Owns the Future?》兩本書中，他特別強調缺乏了支持支付、安全數據共享和來源證明的基礎層協定，以及對開源軟體的財務協助。他這些主張激發了 web3 社群內部和周遭關於這些主題的推進、產生了關鍵作用，web3 社群使用加密技術和區塊鏈創建對 "來源" 和 "價值" 的共同理解。儘管在這個領域的許多項目受到 ES 和超級金融化的影響，但與網際網路最初願景仍然持久連接，特別是在維塔利克·布特林（Vitalik Buterin，最大的智慧合約平臺以太坊的創始人）的領導下，啟發了許多專案，如 GitCoin 和去中心化身份，這些都是現今多元宇宙的核心靈感來源。
 
-在這些關注點上，其他先驅者更多的著眼於通訊和關係層，而不是來源和價值。他們將自己的工作稱為「去中心化網路（Decentralized Web） 」或「聯邦宇宙（Fediverse）」，建立了 Christine Lemmer Webber 的 ActivityPub 協定，這些協議成為非商業性、以社群為主的主流社交媒體替代方案的基礎，包括從 Mastodon 到 Twitter 現在獨立的 BlueSky 計畫。這個領域還產生了許多極具創意的想法，以社會和社群關係為基礎，重新構想身份和隱私。
+在這些關注點上，其他先驅者更多的著眼於通訊和關係層，而不是來源和價值。他們將自己的工作稱為「去中心化網路（Decentralized Web） 」或「聯邦宇宙（Fediverse）」，建立了 Christine Lemmer Webber 的 ActivityPub 協定，這些協定成為非商業性、以社群為主的主流社交媒體替代方案的基礎，包括從 Mastodon 到 Twitter 現在獨立的 BlueSky 計畫。這個領域還產生了許多極具創意的想法，以社會和社群關係為基礎，重新構想身份和隱私。
 
 最後，或許與我們通往多元宇宙之路最切身相關的是，藉加強政府和民主公民社會的數位參與，進而復興早期網際網路的公共和多元精神與理想的運動。這些「政府科技」（GovTech）與「公民科技」（Civic Tech）運動，利用開源軟體式的開發實踐來改善政府服務的提供，並以更為多樣化的方式將公眾帶入此一過程。美國的領導者包括 GovTech 先驅 Code4America 的創始人 Jennifer Pahlka 和 GovLab 的創始人 Beth Simone Noveck。然而，儘管這些運動產生了重要影響，但最能體現這些運動的，還是那些成功改變了全民素質的國家，因此我們可以看到它們在國際舞臺上發揮的驚人潛力。
 
 #### 山巔之城
 
-儘管上述每個國際案例都相當的激勵人心，但大多數人仍然認為社會的例子就是民族國家的例子，因此將國家視為典範。雖然世界上許多社會都體現了「多元宇宙」的理想並運用其工具，其中有兩個典範最為突出：愛沙尼亞和臺灣。兩國政府都受到多元政治思想，特別是亨利·喬治思想的影響，都面臨著來自專制鄰國嚴峻且持久傷害的侵略威脅。在歷史借鏡、當前挑戰的推動下，它們率先應用多元技術，來塑造民主與公部門的制度。
+儘管上述每個國際案例都相當激勵人心，但大多數人仍然認為社會的例子就是民族國家的例子，因此將國家視為典範。雖然世界上許多社會都體現了「多元宇宙」的理想並運用其工具，其中有兩個典範最為突出：愛沙尼亞和臺灣。兩國政府都受到多元政治思想，特別是亨利·喬治思想的影響，都面臨著來自專制鄰國嚴峻而持久的侵略威脅。在歷史借鏡、當前挑戰的推動下，它們率先應用多元技術，來塑造民主與公部門的制度。
 
-儘管愛沙尼亞率先使用多元技術改造國家政府，但其規模和早期發展都限制了它所能取得的成就。雖然愛沙尼亞需要更長的時間才能完全發展起來 ; 但在過去的十年中，一個小小多山的島國，成為全世界最明顯的另一種道路的典範。它的故事，為我們的下一章注入了活力。
+愛沙尼亞率先使用多元技術改造國家政府，但其規模和早期發展都限制了它所能取得的成就。臺灣雖然用了更長的時間才完全發展起來，但在過去的十年中，這個小小多山的島國，成為全世界最明顯的另一種道路的典範。它的故事，為我們的下一章注入了活力。
 
-
-
-
+---
 
 [^1]: 引用《自由的窄廊：國家與社會如何決定自由的命運》by D Acemoglu、JA Robinson  (2019)。
-[^2]:這種關係不同於市場中建立的關係，後者基於以「通用」貨幣進行的雙邊交易交換，因為其依據當地價值和信任以單位表示價值。 
+[^2]: 這種關係不同於市場中建立的關係，後者基於以「通用」貨幣進行的雙邊交易交換，因為其依據當地價值和信任以單位表示價值。 
 [^3]: Gray, Out in the Country (2009). O’Day and Heinberg （2021）. Allcott et al., 2020。
 [^4]: 引用 《Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass》by ML Gray, S Suri （2019）。
 [^5]: 引用 《民主國家如何滅亡：歷史所揭示的我們的未來: How Democracies Die：What History Reveals About Our Future (Traditional Chinese Edition) 》Levitsky, S. & Ziblatt, D. （2018）。Crown. Mounk, Y. （2018）;《The People vs. Democracy: Why Our Freedom Is in Danger and How to Save It》，哈佛大學出版; Sunstein, C. R.（2017）;《Republic: Divided. Democracy in the Age of Social Media》，普林斯頓大學出版; Jamieson, K. H. & Capella, J. N. （2008)） ;《Echo Chamber: Rush Limbaugh and the Conservative Media Establishment》， 牛津大學出版。 
-[^6]: 《The Macroeconomics of Financial Speculation Simsek, A.經濟學年度評論》，13，p.335-69。
+[^6]: 《The Macroeconomics of Financial Speculation Simsek, A. 經濟學年度評論》，13，p.335-69。
 [^7]: 《The Dark Side of Cryptocurrencies: How to Tackle the Challenges》 by Chee-Wee Tan and Shan-Ling Pan （2019）;《Crypto-asset market surveillance》 by the Financial Stability Board （2020）;《Cryptocurrencies and the Future of Money》by Carlo Gola and Andrea Nodari （2018）;《Regulating Cryptocurrencies: Insights from a Survey of Central Banks》 by Jon Frost and Adam Aitken （2018）;《Cryptocurrencies and the Global Financial System: An Overview by Michael Kumhof and Clara Vega（2018）;《Cryptocurrencies: A Primer》by C. Eugene Steuerle and Caleb Quakenbush （2019）;《Crypto-currencies: An Innovative but Unstable Financial Asset》 by Paola Lucantoni and Niclas Werthén （2019）;《Regulating Cryptocurrencies: Analyzing Existing and Proposed Legal Frameworks》by Frank Pasquale （2019）;《Crypto-Assets: Implications for Financial Stability, Monetary Policy, and Payment Systems》by the International Monetary Fund （2018）;《The Challenges of Regulating Cryptocurrencies and Blockchain Technology》 by Ansgar Belke and Dominik Supplieth（2019）。
-[^8]: [《How technology hijacks people’s minds : from a magician and Google’s design ethicist》Harris, T.（2016）](https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)。[《Time well spent》Harris, T.（2018）](https://www.timewellspent.io/)《The War on Sensemaking, Daniel Schmachtenberger at the "Reawakening Our Human Sense-Making" conference》Schmachtenberger, D.（2017）
-[取自](https://www.youtube.com/watch?v=4fjKdVxPwmM) 。《Civilization Emergence》Schmachtenberger, D.（2020） Civilization Emerging [取自](https://civilizationemerging.com/ )。《Emerging》 [取自](https://civilizationemerging.com/) 。《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）。
-[^9]:《監視資本主義時代，The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power》Shoshana Zuboff（2019）;《破壞數學的武器，Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy》Cathy O'Neil（2016）;《The Big Data Opportunity in Our Driverless Future》Evangelos Simoudis（2018）;《Artificial Intelligence and Economic Growth》Philippe Aghion, Mathias Dewatripont和Julian Kolev（2019）;《機器人的興起：技術與失業未來的威脅，The Rise of the Robots: Technology and the Threat of a Jobless Future》Martin Ford（2015）;《AI Superpowers: China, Silicon Valley, and the New World Order》Kai-Fu Lee（2018）;《透明社會，The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?》David Brin（1998）;《Digital Privacy, Playful Media, and Miscommunication: Why Privacy Matters》Kari Kraus（2019）;《Algorithms of Oppression: How Search Engines Reinforce Racism》Safiya Umoja Noble（2018）;《Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor》Virginia Eubanks（2017）。
-[^10]:《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）;《Algorithms of Oppression》Josh Simons（2023）;《人工不智能，Artificial Unintelligence: How Computers Misunderstand the World》Meredith Broussard（2018）;《大數據的傲慢與偏見》Cathy O'Neil（2016）;《技術之後的競賽：New Jim Code的廢除主義工具，Race After Technology: Abolitionist Tools for the New Jim Code》Ruha Benjamin（2019）;《Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor》Virginia Eubanks（2018）;《The Politics of the Artificial: Essays on Design and Design Studies》Victor Margolin和Sylvia Margolin（2017）;《Toward a Critical Race Methodology in Algorithmic Fairness》Josh Simons 等人（2021）;《Decolonizing AI: Toward a More Ethical and Just AI》Os Keyes 等人（2020）;《The Intersection of AI and Human Rights: Opportunities and Challenges》Nicole Ozer和Steven Feldstein（2020）。
-[^11]:《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）;《The Race Between Machine and Man: Implications of Technology for Growth, 《Factor Shares, and Employment》Daron Acemoglu和Pascual Restrepo（2018）;《Capitalism without Capital: The Rise of the Intangible Economy》Jonathan Haskel and Stian Westlake（2018）;《The Rise of the Machines: Automation, Horizontal Innovation and Income Inequality》Daron Acemoglu and Pascual Restrepo（2018年）;《The Economics of Artificial Intelligence: An Agenda》Ajay Agrawal, Joshua Gans and Avi Goldfarb（2018），《The Impact of Artificial Intelligence - Widespread Job Losses》Kai-Fu Lee（2021）;《Skill Biased Technical Change and Rising Wage Inequality: Some Problems and Puzzles》David Autor，（2014）。
+[^8]: [《How technology hijacks people’s minds : from a magician and Google’s design ethicist》Harris, T.（2016）](https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3)。[《Time well spent》Harris, T.（2018）](https://www.timewellspent.io/)《The War on Sensemaking, Daniel Schmachtenberger at the "Reawakening Our Human Sense-Making" conference》Schmachtenberger, D.（2017）[取自](https://www.youtube.com/watch?v=4fjKdVxPwmM) 。《Civilization Emergence》Schmachtenberger, D.（2020） Civilization Emerging [取自](https://civilizationemerging.com/ )。《Emerging》 [取自](https://civilizationemerging.com/) 。《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）。
+[^9]:《監視資本主義時代，The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power》Shoshana Zuboff（2019）;《破壞數學的武器，Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy》Cathy O'Neil（2016）;《The Big Data Opportunity in Our Driverless Future》Evangelos Simoudis（2018）;《Artificial Intelligence and Economic Growth》Philippe Aghion, Mathias Dewatripont 和 Julian Kolev（2019）;《機器人的興起：技術與失業未來的威脅，The Rise of the Robots: Technology and the Threat of a Jobless Future》Martin Ford（2015）;《AI Superpowers: China, Silicon Valley, and the New World Order》Kai-Fu Lee（2018）;《透明社會，The Transparent Society: Will Technology Force Us to Choose Between Privacy and Freedom?》David Brin（1998）;《Digital Privacy, Playful Media, and Miscommunication: Why Privacy Matters》Kari Kraus（2019）;《Algorithms of Oppression: How Search Engines Reinforce Racism》Safiya Umoja Noble（2018）;《Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor》Virginia Eubanks（2017）。
+[^10]:《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）;《Algorithms of Oppression》Josh Simons（2023）;《人工不智能，Artificial Unintelligence: How Computers Misunderstand the World》Meredith Broussard（2018）;《大數據的傲慢與偏見》Cathy O'Neil（2016）;《技術之後的競賽：New Jim Code 的廢除主義工具，Race After Technology: Abolitionist Tools for the New Jim Code》Ruha Benjamin（2019）;《Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor》Virginia Eubanks（2018）;《The Politics of the Artificial: Essays on Design and Design Studies》Victor Margolin 和 Sylvia Margolin（2017）;《Toward a Critical Race Methodology in Algorithmic Fairness》Josh Simons 等人（2021）;《Decolonizing AI: Toward a More Ethical and Just AI》Os Keyes 等人（2020）;《The Intersection of AI and Human Rights: Opportunities and Challenges》Nicole Ozer 和 Steven Feldstein（2020）。
+[^11]:《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018）;《The Race Between Machine and Man: Implications of Technology for Growth, 《Factor Shares, and Employment》Daron Acemoglu 和 Pascual Restrepo（2018）;《Capitalism without Capital: The Rise of the Intangible Economy》Jonathan Haskel and Stian Westlake（2018）;《The Rise of the Machines: Automation, Horizontal Innovation and Income Inequality》Daron Acemoglu and Pascual Restrepo（2018 年）;《The Economics of Artificial Intelligence: An Agenda》Ajay Agrawal, Joshua Gans and Avi Goldfarb（2018），《The Impact of Artificial Intelligence - Widespread Job Losses》Kai-Fu Lee（2021）;《Skill Biased Technical Change and Rising Wage Inequality: Some Problems and Puzzles》David Autor，（2014）。
 [^12]:《The Social Shaping of Technology》Donald A. MacKenzie, and  Judy Wajcman（2018）;《The Rise of Market Power and the Macroeconomic Implications》 by Jan De Loecker, Jan Eeckhout, Quarterly Journal of Economics（2017）;《The Race Between Man and Machine: Implications of Technology for Growth, Factor Shares and Employment》 by Daron Acemoglu and American Economic Review（2019）;《The Cost of Convenience: Ridehailing and Traffic Fatalities》 by John Barrios and  Yael Hochberg, and Hanyi Yi, Journal of Political Economy（2020）;《Firming Up Inequality》 by David Autor, David Dorn, Lawrence F. Katz, Christina Patterson, and John Van Reenen, Centre for Economic   Performance Discussion Paper（2020）;《The Increasing Dominance of Large Firms》 by Gustavo Grullon, Yelena Larkin, and Roni Michaely, Review of Financial Studies（2019）;《The Digital Economy, Business Dynamism and Productivity Growth》 by Chad Syverson, National Bureau of Economic Research（2018）;《Industrial Concentration in the Age of Digital Platforms》 by Fiona Scott Morton, Yale Law Journal（2019）;《The Failure of Free Entry》 by Philippe Aghion, Antonin Bergeaud, Timo Boppart, Peter Klenow, and Huiyu Li, Review of Economic Studies（2019）;《The Capitalist Machine: Computerization, Workers' Power, and the Decline in Labor's Share within U.S. Industries》 by Shouyong Shi and Wei Cui, Journal of Political Economy，（2021）;《Competition and Market Power in the Era of the Big Five》 by Thomas Philippon, American Economic Review，（2021）。
 [^13]: 《AI 新世界》 by 李開復 ; 《The Dictator's Dilemma: The Chinese Communist Party's Strategy for Survival》 by Bruce J. Dickson，（2016）;《The Cost of Connection》by Nick Couldry and Ulysses Mejias，（2019）; 《Artificial Intelligence and National Security》by Paul Scharre  ; 《The New Digital Authoritarianism: Xi Jinping's Vision for the Future of Governance》by Samantha Hoffman  ; 《Data Colonialism: Rethinking Big Data's Relation to the Contemporary Subject》by Jack Linchuan Qiu ;《The Future of Power in the Digital Age》by Taylor Owen and Ben Scott  ; 《The Rise of Digital Repression: How Technology is Reshaping Power, Politics, and Resistance》by Steven Feldstein，（2021）。
 [^14]:  OpenForum Europe 對於 Open Tech Community 發表了一份關於開放程式碼（OSS）影響的研究報告，幾年前歐盟對資料數據的嚴格控制的恐懼導致缺乏競爭和創新，以及市場風險加大。 現在，我們可以看到對 OSS 的更多投資。 這也得益於許多東歐國家的創新步伐，如果民主政府未能維持挹注資訊技術資源與保持數位公共性發展於連接社會、人們與公共部門的關聯，將在未來造成巨大損失，包括民主多元化。在烏克蘭與俄羅斯的戰爭中，我們看到了數位技術與 OSS 的重要性。 
-[^15]: [GALLUP](https://news.gallup.com/poll/329666/views-big-tech-worsen-public-wants-regulation.aspx) ,[參考1](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_4645), [參考2](https://deliverypdf.ssrn.com/delivery.php?ID=378070074070096106120096075093127076009075022081036087078089015067078006091125065007021011006001039100019103096003108083114089116049039081035024111121091071093107025069011095094068091120007107065101126071008081003028090028030076083084111115121117089072&EXT=pdf&INDEX=TRUE)。
-[^16]: 參考資料：《The Innovation Illusion: How So Little is Created by So Many Working So Hard》by Fredrik Erixon and Bjorn Weigel （2016）; 《The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War》 by Robert J. Gordon （2016）;《The Future of Employment: How Susceptible Are Jobs to Computerisation?》 by Carl Benedikt Frey and Michael A. Osborne （2013）;《第二個機器時代：輝煌技術時代的工作，進步和繁榮，The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies》 by Erik Brynjolfsson and Andrew McAfee （2014）;《Innovation and Its Enemies: Why People Resist New Technologies》by Calestous Juma （2016）;《The Limits of the Market: The Pendulum between Government and Market"》by Paul de Grauwe and Anna Asbury （2014）。
-[參考1](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm),[參考資訊2](https://www.oecd.org/sti/msti-highlights-march-2022.pdf),[參考3]( https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expenditure&oldid=590306)。
+[^15]: [GALLUP](https://news.gallup.com/poll/329666/views-big-tech-worsen-public-wants-regulation.aspx) ,[參考 1](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_4645), [參考 2](https://deliverypdf.ssrn.com/delivery.php?ID=378070074070096106120096075093127076009075022081036087078089015067078006091125065007021011006001039100019103096003108083114089116049039081035024111121091071093107025069011095094068091120007107065101126071008081003028090028030076083084111115121117089072&EXT=pdf&INDEX=TRUE)。
+[^16]: 參考資料：《The Innovation Illusion: How So Little is Created by So Many Working So Hard》by Fredrik Erixon and Bjorn Weigel （2016）; 《The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War》 by Robert J. Gordon （2016）;《The Future of Employment: How Susceptible Are Jobs to Computerisation?》 by Carl Benedikt Frey and Michael A. Osborne （2013）;《第二個機器時代：輝煌技術時代的工作，進步和繁榮，The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies》 by Erik Brynjolfsson and Andrew McAfee （2014）;《Innovation and Its Enemies: Why People Resist New Technologies》by Calestous Juma （2016）;《The Limits of the Market: The Pendulum between Government and Market"》by Paul de Grauwe and Anna Asbury （2014）。[參考 1](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm),[參考資訊 2](https://www.oecd.org/sti/msti-highlights-march-2022.pdf),[參考 3]( https://ec.europa.eu/eurostat/statistics-explained/index.php?title=R%26D_expenditure&oldid=590306)。
 [^17]: 說明：即使是具公共性的開放程式碼亦主要由私部門投資，儘管近年美國政府通過推出 code.gov 做出了一些努力來支持該部門。 
 [^18]: Altman interview with Ezra Klein……（可擴充性資訊 e.g. UN）。
-[^19]: 《Made in China 2025: The Industrial Plan that China Doesn't Want to Talk About》Usha C. V. Haley and George T. Haley（2018）;《China's Economic Transformation: Lessons, Impact, and the Path Forward》Zhiwu Chen and Chun Chang（編著，2021），《Innovation in China: Challenging the Global Science and Technology System》Cong Cao（018）;《The Digital Silk Road: China's Information Capitalism and Its Geopolitical Implications》Winston Ma（2020）;《The State, Business and Education: Public-Private Partnerships Revisited》Anthony Welch和Xiaobing Wang（2018）。
+[^19]: 《Made in China 2025: The Industrial Plan that China Doesn't Want to Talk About》Usha C. V. Haley and George T. Haley（2018）;《China's Economic Transformation: Lessons, Impact, and the Path Forward》Zhiwu Chen and Chun Chang（編著，2021），《Innovation in China: Challenging the Global Science and Technology System》Cong Cao（018）;《The Digital Silk Road: China's Information Capitalism and Its Geopolitical Implications》Winston Ma（2020）;《The State, Business and Education: Public-Private Partnerships Revisited》Anthony Welch 和 Xiaobing Wang（2018）。
 [^20]: 以下是一些參考引用，可擴充更多可用資訊：
-    《The Social Shaping of Technology》Donald A. MacKenzie和Judy Wajcman（2018），《Digital Disconnect: How Capitalism is Turning the Internet Against Democracy》Robert W. McChesney（2013），《The Internet Trap: How the Digital Economy Builds Monopolies and Undermines Democracy》Matthew Hindman（2018），《The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age》Adam Segal（2016）。《Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It》Richard Stengel（2019），《The Attention Merchants: The Epic Scramble to Get Inside Our Heads》Tim Wu（2017）
+    《The Social Shaping of Technology》Donald A. MacKenzie 和 Judy Wajcman（2018），《Digital Disconnect: How Capitalism is Turning the Internet Against Democracy》Robert W. McChesney（2013），《The Internet Trap: How the Digital Economy Builds Monopolies and Undermines Democracy》Matthew Hindman（2018），《The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age》Adam Segal（2016）。《Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do About It》Richard Stengel（2019），《The Attention Merchants: The Epic Scramble to Get Inside Our Heads》Tim Wu（2017）
 [^21]: 《Chinese 14th 5-Year-Plan for National Informatization》[英語和華文版本](https://digichina.stanford.edu/work/translation-14th-five-year-plan-for-national-informatization-dec-2021/)
-[^22]: 引用此處HERE。
-[^23]:（希望得到ADA PALMER或CORY DOCTOROW的回饋）《The Social Shaping of Technology》Donald A. MacKenzie和Judy Wajcman（2018），《The Future of Another Timeline》Annalee Newitz（2019），《Walkaway》Cory Doctorow（2017），《Infomocracy》Malka Older（2016），《The Power》Naomi Alderman（2016），《三體 The Three-Body Problem》Cixin Liu（2008），《The Windup Girl》Paolo Bacigalupi（2009），《鑽石時代， The Diamond Age》Neal Stephenson（1995），《The Peripheral》William Gibson（2014），《潰雪 Snow Crash》Neal Stephenson（1992）
-[^24]:（來自STEPH DICK和KATE CRAWFORD的回饋在這裡會很棒。）《The Technological Society》Jacques Ellul（1964），《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018），《The Cybernetic Brain: Sketches of Another Future》Andrew Pickering（2010），《The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology》 Wiebe E. Bijker, Thomas P. Hughes and Trevor Pinch（2012/1987初版），《The Philosophy of Science and Technology Studies》 Steve Fuller（2006），《Technics and Civilization》 Lewis Mumford（2010）。
+[^22]: 引用此處 HERE。
+[^23]:（希望得到 ADA PALMER 或 CORY DOCTOROW 的回饋）《The Social Shaping of Technology》Donald A. MacKenzie 和 Judy Wajcman（2018），《The Future of Another Timeline》Annalee Newitz（2019），《Walkaway》Cory Doctorow（2017），《Infomocracy》Malka Older（2016），《The Power》Naomi Alderman（2016），《三體 The Three-Body Problem》Cixin Liu（2008），《The Windup Girl》Paolo Bacigalupi（2009），《鑽石時代， The Diamond Age》Neal Stephenson（1995），《The Peripheral》William Gibson（2014），《潰雪 Snow Crash》Neal Stephenson（1992）
+[^24]:（來自 STEPH DICK 和 KATE CRAWFORD 的回饋在這裡會很棒。）《The Technological Society》Jacques Ellul（1964），《The Social Shaping of Technology》Donald A. MacKenzie and Judy Wajcman（2018），《The Cybernetic Brain: Sketches of Another Future》Andrew Pickering（2010），《The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology》 Wiebe E. Bijker, Thomas P. Hughes and Trevor Pinch（2012/1987 初版），《The Philosophy of Science and Technology Studies》 Steve Fuller（2006），《Technics and Civilization》 Lewis Mumford（2010）。
 [^25]:《Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity》by Daron Acemoglu and  Simon Johnson (2023)
-[^26]: 根據研究咨詢公司Gartner的一份報告指出，全球政府對人工智慧的支出預計在2021年達到370億美元，比上一年增長 22.4%。中国在人工智慧投資方面處於世界領先地位：2017年中国企業在人工智慧方面的投資為250億美元，而美國為97億美元。2021年，美國參議院通過了一項2500億美元的法案，其中包括520億美元用於半導體研究和開發，預計將促進該國的人工智慧能力。此外，同年，歐盟宣布將在數位羅盤十年計劃框架下，投資83億歐元用於人工智慧、資訊安全和超級計算機。2021年，日本銀行開始進行中央銀行數位貨幣（CBDC）的實驗，中国央行則在幾個城市啟動了數位人民幣的試用計劃。
+[^26]: 根據研究咨詢公司 Gartner 的一份報告指出，全球政府對人工智慧的支出預計在 2021 年達到 370 億美元，比上一年增長 22.4%。中国在人工智慧投資方面處於世界領先地位：2017 年中国企業在人工智慧方面的投資為 250 億美元，而美國為 97 億美元。2021 年，美國參議院通過了一項 2500 億美元的法案，其中包括 520 億美元用於半導體研究和開發，預計將促進該國的人工智慧能力。此外，同年，歐盟宣布將在數位羅盤十年計劃框架下，投資 83 億歐元用於人工智慧、資訊安全和超級計算機。2021 年，日本銀行開始進行中央銀行數位貨幣（CBDC）的實驗，中国央行則在幾個城市啟動了數位人民幣的試用計劃。
 [^27]:《Computers and Government》by J. C. R. Licklider。 
-[^28]:《Journal of Economic Perspectives》by Acemoglu and Restrepo（2019年）。請留意，這些研究中確切的黃金時代-數位化停滯期截止點可能有所不同，但它始終在1970年代或1980年代的某個時間點。
+[^28]:《Journal of Economic Perspectives》by Acemoglu and Restrepo（2019 年）。請留意，這些研究中確切的黃金時代—數位化停滯期截止點可能有所不同，但它始終在 1970 年代或 1980 年代的某個時間點。
 [^29]:《激進市場：戰勝不平等、經濟停滯與政治動盪的全新市場設計 Radical Markets: Uprooting Capitalism and Democracy for a Just Society》by E. Glen Weyl，Eric A. Posner。
-[^30]:《The Great Reversal: How America Gave Up on Free Markets》Thomas Philippon（2019年），《競爭之死：高度壟斷的資本主義，是延誤創新、壓低工資、拉大貧富差距的元凶 The Myth of Capitalism: Monopolies and the death of Competition》by Tepper with Hearn。
+[^30]:《The Great Reversal: How America Gave Up on Free Markets》Thomas Philippon（2019 年），《競爭之死：高度壟斷的資本主義，是延誤創新、壓低工資、拉大貧富差距的元凶 The Myth of Capitalism: Monopolies and the death of Competition》by Tepper with Hearn。
 [^31]: Cambridge Center for the Future of Democracy 。
 [^32]: （在此加入 PAC-MC 的引用）根據 2021 年愛德曼全球信任度調查，全球只有 57% 的受訪者相信科技是可靠的資訊來源。這相較於前一年的調查下降了 4 個百分點。PEW 研究中心 2020 年的調查發現，72% 的美國人認為社交平台對人們所看到的新聞擁有過多的權力和影響力。此外，51% 的受訪者表示對科技在政治極化中的角色非常或稍微擔憂。牛津大學 AI 治理中心 2019 年的調查發現，只有 33% 的美國人認為科技公司是值得信賴的。「Ipsos MORI」於 2020 年對九個國家的 9000 人進行的調查顯示，只有 30% 的受訪者表示他們相信社交平台會負責地處理他們的資料數據。這些數據表明，對科技在社會中的角色以及對民主的影響越來越多人持懷疑和關切的態度。
     （1）PEW 研究中心於 2022 年 12 月 6 日進行的調查涉及 19 個國家。社交平台在許多國家被視為對民主大多有益的，但美國是一個明顯的例外：PEW 研究中心的研究顯示，普通公民認為社群媒體既是政治生活中建設性的，也是破壞性的組成部分，整體而言，大多數人認為它實際上對民主產生了積極的影響。在受調查的國家中，有 57% 的人認為社群媒體對他們的民主制度更有益，有 35% 的人認為它對民主有害。然而，不同國家在這個問題上存在顯著的跨國差異，而美國則是一個明顯的例外：只有 34% 的美國成年人認為社交平台對民主有益，而 64% 的人認為它對民主產生了不好的影響。實際上，美國在許多方面都是一個例外，更多的美國人認為社交平台具有分裂性。
@@ -767,21 +735,20 @@ ES 與民主國家的民族主義者和極右翼有著既密切又些許複雜�
 [^33]: [參考](https://news.gallup.com/poll/1597/confidence-institutions.aspx)
 [^34]: [參考](https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions) 
     / and Kolczynska, Bürkner, Kennedy and Vehtari)
-
-[^35]: “Life as Joy, Duty, End” 。
-[^36]:[《為什麼人際關係是存在的關鍵（The big idea: why relationships are the key to existence）》](https://www.theguardian.com/books/2022/sep/05/the-big-idea-why-relationships-are-the-key-to-existence) by Carlo Rovelli (2022) 。
+[^35]: “Life as Joy, Duty, End” 
+[^36]:[《為什麼人際關係是存在的關鍵 The big idea: why relationships are the key to existence》](https://www.theguardian.com/books/2022/sep/05/the-big-idea-why-relationships-are-the-key-to-existence) by Carlo Rovelli (2022) 
 [^37]: 這裡的「客觀主義者」不僅僅指狹義的 Ayn Rand 的哲學意義，儘管或許她表達的這一觀點可能最為一貫，而是更廣泛地指代常識、簡化版的啟蒙哲學觀念。
-[^38]: 《自私的基因 The Selfish Gene》by Richard Dawkins (1976)，《The Descent of Man》by Charles Darwin (1871)。
+[^38]: 《自私的基因 The Selfish Gene》by Richard Dawkins (1976)，《The Descent of Man》by Charles Darwin (1871)
 [^39]: 以下是這些特性在神經科學中的一些範例：
     (1)敏感性：在神經科學中，敏感性指的是大腦能夠檢測並對其環境中的微小變化作出反應的能力。敏感性在大腦中的一個例子是突觸可塑性現象，這是突觸（神經元之間的連接）根據活動改變強度的能力。這種敏感性讓大腦能夠適應和從經驗中學習。
     (2)混沌：混沌是複雜系統的一種特性，即使它們是確定的，也會表現出無法預測的行為。在神經科學中，已經在大腦中的神經元活動中觀察到混沌。例如，研究已經證明，單個神經元的放電模式可能高度不規則和混亂，沒有可辨識的模式或節奏。這種混沌活動可能在大腦內的訊息處理和交流中發揮作用。
     (3)敏感性與混沌的共同作用：敏感性與混沌也可以在大腦中相互作用，產生複雜和適應性的行為。例如，研究已經證明大腦可以對感官輸入的微小變化顯示出敏感性，但這種敏感性也可以導致神經網絡中的混亂活動。然而，這種混沌活動可以被控制並利用來產生適應性行為，例如在運動控制和協調的情況下。大腦將敏感性和混沌結合在一起的能力，是其驚人的複雜性和適應性的標誌。
-[^40]: See a summary in Fortunato et al. (2018)。
-[^41]: Rzhetsky et al. 2015。
-[^42]: Wu et al. 2019。
-[^43]: Foster et al. 2015。
-[^44]: Clauset et al. 2017。
-[^45]: 《Soziologie（社會學）》by 格奧爾格·齊美爾（Georg Simmel）.1908 。
-[^46]: 《1975 年以來齊美爾對美國社會學的影響》by Brocic and Silver。
-[^47]: 《Sociology of Secrets and Secret Societies（秘密與秘密社團的社會學）》by 格奧爾格·齊美爾（Georg Simmel）。
-[^48]: 《The Public and its Problems（公眾及其問題）》by 約翰·杜威（John Dewey）.1927年 。
+[^40]: See a summary in Fortunato et al. 2018
+[^41]: Rzhetsky et al. 2015
+[^42]: Wu et al. 2019
+[^43]: Foster et al. 2015
+[^44]: Clauset et al. 2017
+[^45]: 《Soziologie（社會學）》by 格奧爾格·齊美爾（Georg Simmel）.1908.
+[^46]: 《1975 年以來齊美爾對美國社會學的影響》by Brocic and Silver.
+[^47]: 《Sociology of Secrets and Secret Societies（秘密與秘密社團的社會學）》by 格奧爾格·齊美爾（Georg Simmel）
+[^48]: 《The Public and its Problems（公眾及其問題）》by 約翰·杜威（John Dewey）.1927年 
