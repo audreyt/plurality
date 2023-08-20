@@ -21,9 +21,18 @@ s/3/三/g for @files; s/2/二/g for @files; s/1/一/g for @files;
 chomp @files; s/"//g for @files;
 binmode STDOUT, ":utf8";
 
-my $diff = do { local $/; <DATA> };
+# Now go over origin/hackmd, origin/hackmd^, origin/hackmd^^ ... until we have an non-empty commit.
+my $commit = "origin/hackmd";
+while (1) {
+    my $diff = `git diff $commit $commit^`;
+    if ($diff eq '') {
+        $commit .= "^";
+    } else {
+        last;
+    }
+}
 
 for (@files) {
     # now, for each file, we try applying the diff to it. Only some chunks will succeed.
-    system(qq[git show origin/hackmd | patch "$_"]);
+    system(qq[git show $commit | patch "$_"]);
 }
