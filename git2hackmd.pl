@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 use utf8;
 use 5.30.0;
 use strict;
@@ -33,6 +34,7 @@ $output =~ s/^(作者：|譯者：|原文：).*\n//mg;
 # now, go over each footnote.
 my $cnt = 0;
 my @footnotes;
+$output =~ s/---\n+(?=\[\^\d+\]:)//;
 $output =~ s/^\[\^\d+\](:.*$(?:\n  .*)*)/do { push @footnotes, "[^" . ++$cnt . "]$1"; '' }/gme;
 $cnt = 0;
 $output =~ s/\[\^\d+\]/"[^" . ++$cnt . "]"/gme;
